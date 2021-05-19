@@ -1,0 +1,8 @@
+Begin;
+Var a, b, c, t, d;
+Const G = 9;
+a = 6;
+b = a + 4;
+c = 1;
+d = a + ( b - c ) / 2 + 5 * 7;
+End;
